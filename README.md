@@ -7,7 +7,7 @@
 </div>
 
 ##
-As a Full-Stack Developer, I'm passionate about learning and always looking for ways to improve my skills. Through my projects on Github, I aim to showcase my potential as a developer and I'm always on the lookout for new knowledge and growth opportunities.
+As a **Full-Stack Developer**, I'm passionate about learning and always looking for ways to improve my skills. Through my projects on  **Github**, I aim to showcase my potential as a developer and I'm always on the lookout for new knowledge and growth opportunities.
 
 ## 🧰 My Toolbox
 
@@ -57,6 +57,7 @@ As a Full-Stack Developer, I'm passionate about learning and always looking for 
 
 <div align="center">
   <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 </div>
 
 ## You can find me on
