@@ -1,13 +1,13 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0069FF&width=435&lines=Hey!+My+name+Micaias+Silva!+%F0%9F%91%8B;I+am+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
 <div>
-<a href="https://github.com/micaias-silva">
+  <a href="https://github.com/micaias-silva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaias-silva&layout=compact&langs_count=7&theme=transparent"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=micaias-silva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 
-As a **Full-Stack Developer**, I'm passionate about learning and always looking for ways to improve my skills. Through my projects on  **Github**, I aim to showcase my potential as a developer and I'm always on the lookout for new knowledge and growth opportunities. [My Resume](https://docs.google.com/document/d/11Dn5WmpgEGU32J4vd1h5UulJKVroLPzzZiFM1kAA03w/edit)
+As a **Full-Stack Developer**, I'm passionate about learning and always looking for ways to improve my skills. Through my projects on  **Github**, I aim to showcase my potential as a developer and I'm always on the lookout for new knowledge and growth opportunities. [My Resume](https://docs.google.com/document/d/11Dn5WmpgEGU32J4vd1h5UulJKVroLPzzZiFM1kAA03w/edit?usp=sharing) ([Portuguese](https://docs.google.com/document/d/1EphFOzHtjL1B7gO43zdibCWAbOLmWRu_nG-JzH8Qecs/edit?usp=sharing))
   
 ## 🧰 My Toolbox
 
@@ -53,7 +53,7 @@ As a **Full-Stack Developer**, I'm passionate about learning and always looking 
   </a>
 </div>
                                                                                                                        
-## :books: I'm Currently Studying
+## :books: I'm currently studying
 
 <div align="center" target="_blank">
   <a href="https://angular.io/">
