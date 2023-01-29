@@ -6,9 +6,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=micaias-silva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
-##
-As a **Full-Stack Developer**, I'm passionate about learning and always looking for ways to improve my skills. Through my projects on  **Github**, I aim to showcase my potential as a developer and I'm always on the lookout for new knowledge and growth opportunities.
-
+## 
+As a **Full-Stack Developer**, I'm passionate about learning and always looking for ways to improve my skills. Through my projects on  **Github**, I aim to showcase my potential as a developer and I'm always on the lookout for new knowledge and growth opportunities. [My Resume](https://docs.google.com/document/d/11Dn5WmpgEGU32J4vd1h5UulJKVroLPzzZiFM1kAA03w/edit)
+  
 ## 🧰 My Toolbox
 
 <div align="center">
@@ -55,25 +55,34 @@ As a **Full-Stack Developer**, I'm passionate about learning and always looking 
                                                                                                                        
 ## :books: I'm Currently Studying
 
-<div align="center">
-  <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<div align="center" target="_blank">
+  <a href="https://angular.io/">
+    <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  </a>
+  <a href="https://nestjs.com" target="_blank">
+    <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  </a>
+  
 </div>
+                                                                                                                    
+## 💻 You can find me on
 
-## You can find me on
+<div>
+  <a href="https://linkedin.com/in/micaias" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/micaiassilva_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:pro.micaiassilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/oMicaiasSilva" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
+                                                                                                           
 
-<a href="https://linkedin.com/in/micaias" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/micaiassilva_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:pro.micaiassilva@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://t.me/oMicaiasSilva" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-![Snake animation](https://github.com/micaias-silva/micaias-silva/blob/output/github-contribution-grid-snake.svg)
-                                                                                                     
+<div align="center">
+  <img src="https://github.com/micaias-silva/micaias-silva/blob/output/github-contribution-grid-snake.svg">
+</div>                                                                                                
