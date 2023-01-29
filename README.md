@@ -1,6 +1,12 @@
-# Hey! My name is Micaias Silva and I am a Full-Stack Developer!
+# :wave: Hey! My name is Micaias Silva
 
-## 👋 This is me
+<div>
+<a href="https://github.com/micaias-silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaias-silva&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micaias-silva&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+</div>
+
+##
 I am a fully-passionate developer, 
 
 ## 🧰 My Toolbox
@@ -59,10 +65,4 @@ I am a fully-passionate developer,
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-
-<div align="center">
-  <a href="https://github.com/micaias-silva">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=micaias-silva&show_icons=true&theme=github_dark&count_private=true&hide=issues"/>
-  
-  <img width="44%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaias-silva&theme=github_dark&count_private=true&layout=compact"/>
-</div>
+                                                                                                     
