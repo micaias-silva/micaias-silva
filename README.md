@@ -1,4 +1,4 @@
-# :wave: Hey! My name is Micaias Silva
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0069FF&width=435&lines=Hey!+My+name+Micaias+Silva!+%F0%9F%91%8B;I+am+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
 <div>
 <a href="https://github.com/micaias-silva">
@@ -7,7 +7,7 @@
 </div>
 
 ##
-I am a fully-passionate developer, 
+As a Full-Stack Developer, I'm passionate about learning and always looking for ways to improve my skills. Through my projects on Github, I aim to showcase my potential as a developer and I'm always on the lookout for new knowledge and growth opportunities.
 
 ## 🧰 My Toolbox
 
@@ -52,8 +52,14 @@ I am a fully-passionate developer,
     <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </a>
 </div>
+                                                                                                                       
+## :books: I'm Currently Studying
 
-## Contact Me
+<div align="center">
+  <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+</div>
+
+## You can find me on
 
 <a href="https://linkedin.com/in/micaias" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -64,5 +70,9 @@ I am a fully-passionate developer,
 <a href="mailto:pro.micaiassilva@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href="https://t.me/oMicaiasSilva" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
+![Snake animation](https://github.com/micaias-silva/micaias-silva/blob/output/github-contribution-grid-snake.svg)
                                                                                                      
