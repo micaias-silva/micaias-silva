@@ -9,6 +9,7 @@ export const { styled, globalCss } = createStitches({
       grey1: "#0C0C0C",
       grey2: "#1F1F1F",
       grey3: "#232323",
+      grey4: "#868E96",
       white: "#FFFFFF",
     },
     fontSizes: {
@@ -29,10 +30,17 @@ export const { styled, globalCss } = createStitches({
       bold: 700,
     },
     lineHeights: {
-      title: 40,
+      title: 1,
+    },
+    space: {
+      1: "1rem",
+      2: "1.5rem",
+      3: "2rem",
+      4: "4rem",
     },
   },
   media: {
     mobile: "(max-width: 768px)",
+    mobileSmall: "(max-width: 560px)",
   },
 });
