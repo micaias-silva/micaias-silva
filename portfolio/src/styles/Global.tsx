@@ -8,6 +8,7 @@ export const colors = {
     grey1: { color: "$grey1" },
     grey2: { color: "$grey2" },
     grey3: { color: "$grey3" },
+    grey4: { color: "$grey4" },
     white: { color: "$white" },
   },
 };
@@ -20,7 +21,7 @@ export const globalStyles = globalCss({
     fontSize: "$regular",
   },
   html: {
-    fontFamily: "Lexend",
+    fontFamily: "Inter",
     scrollBehavior: "smooth",
   },
 });
