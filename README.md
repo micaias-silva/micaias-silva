@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0069FF&width=435&lines=Hey!+My+name+Micaias+Silva!+%F0%9F%91%8B;I+am+a+Full-Stack+Developer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0069FF&width=435&lines=Hey!+My+name+is+Micaias+Silva!+%F0%9F%91%8B;I+am+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/micaias-silva">
