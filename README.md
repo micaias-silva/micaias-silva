@@ -53,7 +53,7 @@ As a **Full-Stack Developer**, I'm passionate about learning and always looking 
   </a>
 </div>
                                                                                                                        
-## :books: I'm currently studying
+<!--## :books: I'm currently studying
 
 <div align="center" target="_blank">
   <a href="https://angular.io/">
@@ -62,10 +62,8 @@ As a **Full-Stack Developer**, I'm passionate about learning and always looking 
   <a href="https://nestjs.com" target="_blank">
     <img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   </a>
-  
-</div>
-                                                                                                                    
-## 💻 You can find me on
+</div> -->                                                                                                              
+## 💻 You can find me at
 
 <div>
   <a href="https://linkedin.com/in/micaias" target="_blank">
