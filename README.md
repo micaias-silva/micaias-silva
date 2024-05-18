@@ -7,7 +7,7 @@
 </div>
 
 ## 
-As a **Full-Stack Developer**, I'm passionate about learning and always looking for ways to improve my skills. Through my projects on  **Github**, I aim to showcase my potential as a developer and I'm always on the lookout for new knowledge and growth opportunities. [My Resume](https://docs.google.com/document/d/11Dn5WmpgEGU32J4vd1h5UulJKVroLPzzZiFM1kAA03w/edit?usp=sharing) ([Portuguese](https://docs.google.com/document/d/1EphFOzHtjL1B7gO43zdibCWAbOLmWRu_nG-JzH8Qecs/edit?usp=sharing))
+As a **Full-Stack Developer**, I'm passionate about learning and always looking for ways to improve my skills. Through my projects on  **Github**, I aim to showcase my potential as a developer and I'm always on the lookout for new knowledge and growth opportunities. [My Resume](https://docs.google.com/document/d/13SHrF3gfwnRF5lTvwrSt0t01EdnSzCmuNCbfY4drawE/edit?usp=drive_link) ([PT-BR Ver.](https://docs.google.com/document/d/1F2WL4OyFLzbBzKCAH6Yo6PRTlr57EPW7caP-UYod-48/edit?usp=drive_link))
   
 ## 🧰 My Toolbox
 
